@@ -8,10 +8,12 @@
     Allen, TX 75013
 
 # THANKS
-
-    <name>
+    
+    Mary Larry
+    
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java Programming
