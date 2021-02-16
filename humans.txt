@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Hello There <twitter>
+    Hello there!
+    February 16, 2021
+    Allen, TX 75013
 
 # THANKS
 
