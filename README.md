@@ -6,5 +6,5 @@ This repository is for showing how Git and GitHub work
 
 A lot of lectures are already submitted
 
-##GIT & GITHUB Training
+## GIT & GITHUB Training
 This is the famous and one of the Best Training Course of DevOps
