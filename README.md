@@ -16,6 +16,7 @@ Fork the Report and rasie pull request for review
 
 ## GIT Comparisons
 Adding GIT Comparisons Lecture
+Adding new Lectures of Stash
 
 ## GITHub Content
 Comparison with Repo
