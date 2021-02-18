@@ -5,6 +5,7 @@ This is GIT Project, which we are using as Sample Project
 ## Introduction
 
 A lot of lectures are already submitted
+A lot of lectures are coming in
 
 ## GIT & GITHUB Training
 This is the famous and one of the Best Training Course of DevOps
